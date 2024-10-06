@@ -1,8 +1,6 @@
 # 🌥️ **OVH Cloud Solutions**
 <img src="/Images/Main.png">
 
-## 🤝 Partnered with Vgosh Info
-
 ### 🌐 **Cloud Storage India**
 
 ---
