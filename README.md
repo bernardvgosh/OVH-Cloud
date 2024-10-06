@@ -57,7 +57,7 @@ Our Open, Innovative, and Competitive (OIC) cloud model sets principles and guid
 <img src="/Images/Feature1.png">
 OVH Cloud is one of the most prestigious and well-respected cloud providers, with over 20 years of experience in the industry. They offer data management services that are not only competitive, but that outperform the competition on all fronts. This, combined with their excellent customer service, has made them a frontrunner in today’s competitive market.
 
--
+
 - Hosted Private Cloud
 - Cloud of bare metal
 - The Public Cloud
