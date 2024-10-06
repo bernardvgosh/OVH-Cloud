@@ -44,6 +44,8 @@ We're dedicated to improving how our product makes people feel. Our aim is to cr
 ---
 
 ## 🌏 OVH Cloud in the Asia Pacific
+<img src="/Images/Feature.png">
+
 We have world-class data centers located in **Sydney** and **Singapore**, with regional offices in **Melbourne**, **Singapore**, and **Bangalore**.
 
 ### 🌱 Sustainable by Design
@@ -52,6 +54,7 @@ Our Open, Innovative, and Competitive (OIC) cloud model sets principles and guid
 ---
 
 ## 📋 What We Do
+<img src="/Images/Feature1.png">
 OVH Cloud is one of the most prestigious and well-respected cloud providers, boasting over **20 years** of experience. Our data management services outperform the competition while ensuring excellent customer service.
 
 ### 🛠️ Product Universes
@@ -61,11 +64,15 @@ OVH Cloud is one of the most prestigious and well-respected cloud providers, boa
 - **Web Cloud**
 
 ### 🔍 About Data Sovereignty
+<img src="/Images/Feature2.png">
+
 Data sovereignty is crucial for organizations storing data in the cloud. The location of your cloud provider influences your data sovereignty options, making it essential to choose a provider that aligns with your needs.
 
 ---
 
 ## 🌟 The Active Ecosystem of OVH Cloud
+<img src="/Images/Feature3.png">
+
 - **🤝 Partner Program**: Helping organizations unlock the full potential of digital technology.
 - **🔐 Open Trusted Cloud**: Providing trusted, open, and interoperable solutions.
 - **🚀 Start-up Program**: Supporting new ideas and emerging startups.
