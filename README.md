@@ -55,13 +55,15 @@ Our Open, Innovative, and Competitive (OIC) cloud model sets principles and guid
 
 ## 📋 What We Do
 <img src="/Images/Feature1.png">
-OVH Cloud is one of the most prestigious and well-respected cloud providers, boasting over **20 years** of experience. Our data management services outperform the competition while ensuring excellent customer service.
+OVH Cloud is one of the most prestigious and well-respected cloud providers, with over 20 years of experience in the industry. They offer data management services that are not only competitive, but that outperform the competition on all fronts. This, combined with their excellent customer service, has made them a frontrunner in today’s competitive market.
 
-### 🛠️ Product Universes
-- **Hosted Private Cloud**
-- **Baremetal Cloud**
-- **Public Cloud**
-- **Web Cloud**
+Hosted Private Cloud
+Cloud of bare metal
+The Public Cloud
+The Web Cloud
+Capacity
+Protection and Network
+OVH Cloud offers four distinct product universes, each designed to meet a specific set of needs: Baremetal Cloud, Hosted Private Cloud, Public Cloud, and Web Cloud.
 
 ### 🔍 About Data Sovereignty
 <img src="/Images/Feature2.png">
